@@ -1,0 +1,12 @@
+{
+    "mongodb": {
+        "main": {
+            "host": "localhost",
+            "port": "27017",
+            "user": "",
+            "password": "",
+            "additional": "",
+            "dbname": "msmpunkter"
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon punkter_bot.js"
+  },
+  "name": "punkter_bot",
+  "version": "1.0.0",
+  "main": "punkter_bot.js",
+  "dependencies": {
+    "async": "^3.2.4",
+    "express": "^4.18.2",
+    "fs-extra": "^10.1.0",
+    "https": "^1.0.0",
+    "mongodb": "^4.12.0",
+    "nodemon": "^2.0.20",
+    "telegraf": "^4.11.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Inkenn/punkter_bot.git"
+  },
+  "author": "Neubivko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Inkenn/punkter_bot/issues"
+  },
+  "homepage": "https://github.com/Inkenn/punkter_bot#readme",
+  "description": "Punkter Bot for You",
+  "keywords": [
+    "telegram"
+  ]
+}
